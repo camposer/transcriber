@@ -1,0 +1,6 @@
+amazonProperties:
+  endpointUrl: ${AWS_ENDPOINT_URL:NOT_ASSIGNED}
+  accessKey: ${AWS_ACCESS_KEY:NOT_ASSIGNED}
+  secretKey: ${AWS_SECRET_KEY:NOT_ASSIGNED}
+  bucketName: ${AWS_BUCKET_NAME:NOT_ASSIGNED}
+  region: eu-west-2

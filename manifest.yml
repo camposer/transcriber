@@ -1,0 +1,5 @@
+---
+applications:
+  - name: transcriber
+    buildpack: java_buildpack
+    path: build/libs/transcriber.jar
